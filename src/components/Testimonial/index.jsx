@@ -16,7 +16,7 @@ const Testmonial = ()=> {
           <div className="carousel-item active">
             <div className="card testmonial-card border">
               <div className="card-body">
-                <img src="src/assets/imgs/kyle2.jpg" alt />
+                <img src="src/assets/imgs/kyle1.jpg" alt />
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam nostrum voluptates in enim vel amet?</p>
                 <h1 className="title">Kyle T</h1>
                 <h1 className="subtitle">Mobile Designer</h1>

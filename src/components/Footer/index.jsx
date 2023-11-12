@@ -3,7 +3,7 @@ const Footer = ()=> {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-sm-6">
-          <p>Presented By KyVaTe <a href="http://www.devcrud.com" target="_blank">FrontEndClass</a></p>
+          <p>Presented By KyVaTe <a href="https://classroom.google.com/c/NjE3OTY4NjQ1ODM5" target="_blank">FrontEndClass</a></p>
         </div>
         <div className="col-sm-6">
           <div className="socials">
