@@ -5,7 +5,7 @@ const Skills = ()=> {
     <div className="container text-center">
       <h6 className="subtitle">Skills</h6>
       <h6 className="section-title mb-4">Why Choose me</h6>
-      <p className="mb-5 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In alias dignissimos. <br /> rerum commodi corrupti, temporibus non quam.</p>
+      <p className="mb-5 pb-4">Saya memiliki keahlian luas dalam Photoshop, Web Design, dan App Design. Dengan kombinasi keahlian ini, saya mampu menghasilkan desain visual yang menawan dan fungsional untuk berbagai platform. Selain itu, kemampuan kepemimpinan saya juga akan membawa kontribusi positif, memastikan tim bekerja efisien dan mencapai tujuan desain yang dicanangkan. Saya tidak hanya membawa kreativitas dan ketajaman teknis dalam desain, tetapi juga kemampuan untuk memimpin dan menginspirasi tim menuju kesuksesan proyek.</p>
       <div className="row text-left">
         <div className="col-sm-6">
           <h6 className="mb-3">Photoshop</h6>

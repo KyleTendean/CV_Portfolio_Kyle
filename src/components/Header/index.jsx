@@ -4,19 +4,13 @@ const Header = ()=> {
     <header className="header" id="home">
     <div className="container">
       <div className="infos">
-        <h6 className="subtitle">hello,I'm</h6>
+        <h6 className="subtitle">hello,I`m</h6>
         <h6 className="title">Valerian Kyle Tendean</h6>
         <p>Front End Class</p>
         <div className="buttons pt-3">
           <button className="btn btn-primary rounded">HIRE ME</button>
           <button className="btn btn-dark rounded">DOWNLOAD CV</button>
         </div>      
-        <div className="socials mt-4">
-          <a className="social-item" href="javascript:void(0)"><i className="ti-facebook" /></a>
-          <a className="social-item" href="javascript:void(0)"><i className="ti-google" /></a>
-          <a className="social-item" href="javascript:void(0)"><i className="ti-github" /></a>
-          <a className="social-item" href="javascript:void(0)"><i className="ti-twitter" /></a>
-        </div>
       </div>              
       <div className="img-holder">
         <img src="src/assets/imgs/man.svg" alt />

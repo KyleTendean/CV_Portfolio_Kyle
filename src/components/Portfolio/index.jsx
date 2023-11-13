@@ -5,7 +5,7 @@ const Portfolio = ()=> {
     <div className="container text-center">
       <h6 className="subtitle">Portfolio</h6>
       <h6 className="section-title mb-4">Check My Wonderful Works</h6>
-      <p className="mb-5 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In alias dignissimos. <br /> rerum commodi corrupti, temporibus non quam.</p>
+      <p className="mb-5 pb-4">Ini merupakan project-project yang sudah saya selesaikan</p>
       <div className="row">
         <div className="col-sm-4">
           <div className="img-wrapper">

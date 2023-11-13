@@ -10,8 +10,8 @@ const About= ()=> {
         <div className="pl-md-4 col-md-9">
           <h6 className="title">Kyle Tendan</h6>
           <p className="subtitle">UI/UX Designer</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, pariatur, aperiam aut autem voluptas odit. Odio ducimus delectus totam sed aliquam sequi praesentium mollitia, illum repudiandae quidem quod, magni magnam.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, eius, nam. Quo praesentium qui temporibus voluptatum, facilis aliquid eligendi fugiat beatae neque inventore non. Laborum repellendus consequatur ullam voluptatum asperiores.</p>
+          <p>Dengan keahlian dalam UI/UX, saya berkontribusi pada penciptaan produk digital yang tidak hanya menarik secara visual tetapi juga memberikan pengalaman pengguna yang positif dan memuaskan. Saya senang menghadirkan desain yang mempertemukan kebutuhan pengguna dengan tujuan bisnis, menciptakan produk yang memikat dan mudah digunakan.</p>
+          <p> Saya berkomitmen untuk menghasilkan produk digital yang tidak hanya estetis, tetapi juga memberikan pengalaman positif bagi pengguna, membawa harmoni antara desain dan fungsi.</p>
           <button className="btn btn-primary rounded mt-3">DOWNLOAD CV</button>                   
         </div>
       </div>

@@ -5,7 +5,7 @@ const Service = ()=> {
     <div className="container text-center">
       <h6 className="subtitle">Service</h6>
       <h6 className="section-title mb-4">What I Do</h6>
-      <p className="mb-5 pb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In alias dignissimos. <br /> rerum commodi corrupti, temporibus non quam.</p>
+      <p className="mb-5 pb-4">Ini merupakan keahlian lain yang saya kembangkan <br /> Untuk memenuhi tuntutan pekerjaan</p>
       <div className="row">
         <div className="col-sm-6 col-md-3 mb-4">
           <div className="custom-card card border">
